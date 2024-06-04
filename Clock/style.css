@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.center{
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    width: 40vh;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+#banner{
+    font-size: 1.25rem;
+}
+
+#clock{
+    font-size: 3rem;
+}

@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    min-height: 45vh;
+}
+
+.container button{
+    border-radius: 0.5rem;
+    border: 1px solid lightgrey;
+    background-color: #e2e2e2;
+    color: #212121;
+    font-size: 1rem;
+    margin: 0.7rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
